@@ -23,5 +23,5 @@ An Android app that can recognize text from an image with the help of Machine Le
 
 # Screenshots
 <img src="screenshots/text-recognition-start.png" alt="drawing" width="250"/>
-<img src="screenshots/text-recognition-after-extrfacting.png" alt="drawing" width="250"/>
+<img src="screenshots/text-recignition-after-extrfacting.png" alt="drawing" width="250"/>
 
