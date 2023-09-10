@@ -20,3 +20,6 @@ An Android app that can recognize text from an image with the help of Machine Le
 - Lottie Animations
 - Image Picker
 - Linkify
+
+# Screenshots
+![image](https://github.com/artem-lisovskyi/TextRecognizerApp/assets/123304314/65694707-fef2-4fd7-925a-abb0d4f1cdc6)
